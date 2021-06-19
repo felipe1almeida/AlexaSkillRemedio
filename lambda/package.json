@@ -1,0 +1,19 @@
+{
+  "name": "fact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.0.0",
+    "ask-sdk-model": "^1.0.0",
+    "i18next": "^15.0.5",
+     "ask-sdk-s3-persistence-adapter": "^2.7.0",
+        "ask-sdk-dynamodb-persistence-adapter": "^2.7.0", 
+        "moment-timezone": "^0.5.23"
+  }
+}
